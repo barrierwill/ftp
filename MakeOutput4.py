@@ -1,4 +1,4 @@
-import sys
+  import sys
 
 sys.stdout.write(f"220 COMP 431 FTP server ready.\r\n")
 sys.stdout.write(f"USEr anonymous person\r\n")
